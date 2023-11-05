@@ -1,0 +1,18 @@
+E:\Courses & Programming\C#\C# Programs\CPU And RAM Monitor\CPU And RAM Monitor\bin\Debug\CPU And RAM Monitor.exe.config
+E:\Courses & Programming\C#\C# Programs\CPU And RAM Monitor\CPU And RAM Monitor\bin\Debug\CPU And RAM Monitor.exe
+E:\Courses & Programming\C#\C# Programs\CPU And RAM Monitor\CPU And RAM Monitor\bin\Debug\CPU And RAM Monitor.pdb
+E:\Courses & Programming\C#\C# Programs\CPU And RAM Monitor\CPU And RAM Monitor\obj\Debug\CPU And RAM Monitor.csprojResolveAssemblyReference.cache
+E:\Courses & Programming\C#\C# Programs\CPU And RAM Monitor\CPU And RAM Monitor\obj\Debug\CPU_And_RAM_Monitor.Form1.resources
+E:\Courses & Programming\C#\C# Programs\CPU And RAM Monitor\CPU And RAM Monitor\obj\Debug\CPU_And_RAM_Monitor.Properties.Resources.resources
+E:\Courses & Programming\C#\C# Programs\CPU And RAM Monitor\CPU And RAM Monitor\obj\Debug\CPU And RAM Monitor.csproj.GenerateResource.Cache
+E:\Courses & Programming\C#\C# Programs\CPU And RAM Monitor\CPU And RAM Monitor\obj\Debug\CPU And RAM Monitor.exe
+E:\Courses & Programming\C#\C# Programs\CPU And RAM Monitor\CPU And RAM Monitor\obj\Debug\CPU And RAM Monitor.pdb
+E:\Courses & Programming\C#\C# Programs\Window Form Applications\CPU And RAM Monitor\CPU And RAM Monitor\bin\Debug\CPU And RAM Monitor.exe.config
+E:\Courses & Programming\C#\C# Programs\Window Form Applications\CPU And RAM Monitor\CPU And RAM Monitor\obj\Debug\CPU And RAM Monitor.exe
+E:\Courses & Programming\C#\C# Programs\Window Form Applications\CPU And RAM Monitor\CPU And RAM Monitor\obj\Debug\CPU And RAM Monitor.pdb
+E:\Courses & Programming\C#\C# Programs\Window Form Applications\CPU And RAM Monitor\CPU And RAM Monitor\bin\Debug\CPU And RAM Monitor.exe
+E:\Courses & Programming\C#\C# Programs\Window Form Applications\CPU And RAM Monitor\CPU And RAM Monitor\bin\Debug\CPU And RAM Monitor.pdb
+E:\Courses & Programming\C#\C# Programs\Window Form Applications\CPU And RAM Monitor\CPU And RAM Monitor\obj\Debug\CPU And RAM Monitor.csprojResolveAssemblyReference.cache
+E:\Courses & Programming\C#\C# Programs\Window Form Applications\CPU And RAM Monitor\CPU And RAM Monitor\obj\Debug\CPU_And_RAM_Monitor.Form1.resources
+E:\Courses & Programming\C#\C# Programs\Window Form Applications\CPU And RAM Monitor\CPU And RAM Monitor\obj\Debug\CPU_And_RAM_Monitor.Properties.Resources.resources
+E:\Courses & Programming\C#\C# Programs\Window Form Applications\CPU And RAM Monitor\CPU And RAM Monitor\obj\Debug\CPU And RAM Monitor.csproj.GenerateResource.Cache
